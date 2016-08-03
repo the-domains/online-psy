@@ -1,4 +1,3 @@
-layout_spectrum: 0.09265426127240062
 typography_spectrum: 0.5240163600537926
 color:
   brandStrength: 0.7829050840809941
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.09265426127240062
 name: online psy
 title: Telefonpsykologerna
+description: Telefonpsykologerna erbjuder ett enkelt och bekväm
