@@ -11,6 +11,8 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.09265426127240062
+author:
+  name: Telefonpsykologerna
 name: on-line psy
 title: Telefonpsykologerna
 description: Telefonpsykologerna erbjuder ett enkelt och bekväm
